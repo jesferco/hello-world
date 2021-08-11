@@ -1,5 +1,8 @@
+salida de ls:
 dir.txt
 README.md
+
+salida de tree:
 .
 ├── dir.txt
 └── README.md
