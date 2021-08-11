@@ -1,0 +1,7 @@
+dir.txt
+README.md
+.
+├── dir.txt
+└── README.md
+
+0 directories, 2 files
