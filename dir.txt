@@ -11,3 +11,9 @@ salida de tree:
 
 probando un cambio extra
 
+.
+├── dirroot.txt
+├── dir.txt
+└── README.md
+
+0 directories, 3 files
