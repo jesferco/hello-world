@@ -21,3 +21,32 @@ Steam
 Templates
 Videos
 wifi.txt
+/home/jes/prog/cifrador/
+├── build
+│   └── cifrador
+│       ├── Analysis-00.toc
+│       ├── base_library.zip
+│       ├── EXE-00.toc
+│       ├── PKG-00.pkg
+│       ├── PKG-00.toc
+│       ├── PYZ-00.pyz
+│       ├── PYZ-00.toc
+│       ├── Tree-00.toc
+│       ├── Tree-01.toc
+│       ├── Tree-02.toc
+│       ├── warn-cifrador.txt
+│       └── xref-cifrador.html
+├── cifrador.ipynb
+├── cifrador.py
+├── cifrador.spec
+├── dist
+│   ├── cifrador
+│   ├── en_clave.txt
+│   └── normal.txt
+├── en_clave.txt
+├── normal.txt
+├── original_prueba.txt
+└── __pycache__
+    └── cifrador.cpython-38.pyc
+
+4 directories, 22 files
